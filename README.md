@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Kvaratu
 - 👀 I’m interested in ...learning 
-- 🌱 I’m currently learning ...github /python
-- 💞️ I’m looking to collaborate on ...anything once i know wgat im soing 
+- 🌱 I’m currently learning ...github /python/ Athena OS/ Kali-linux
+- 💞️ I’m looking to collaborate...once ive learned what im doing  
 - 📫 How to reach me ...leave a message 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kvaratu/Kvaratu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: ...im a dude 
+- ⚡ Fun fact: ...i went 35 years without knowing a lick about computers, ive decided to jump off the porch and pick my lane...
+Kvaratu/Kvaratu is just to appease the git hub lords 
